@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+	
+	<url>
+		<loc>http://www.mezonplus.ru/</loc>
+		<lastmod>2017-11-22</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.9</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/service.htm</loc>
+		<lastmod>2007-05-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/partners.htm</loc>
+		<lastmod>2017-11-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.mezonplus.ru/clients.htm</loc>
+		<lastmod>2007-05-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/vacancy.htm</loc>
+		<lastmod>2014-01-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/about.htm</loc>
+		<lastmod>2009-07-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/contacts.htm</loc>
+		<lastmod>2017-11-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.mezonplus.ru/sale.htm</loc>
+		<lastmod>2017-11-22</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://www.mezonplus.ru/news.htm</loc>
+		<lastmod>2014-02-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.mezonplus.ru/videocam.htm</loc>
+		<lastmod>2014-02-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	
+</urlset>

@@ -1,0 +1,7 @@
+body	{ background:gray; padding:5px; margin:0px; }
+table	{ border:none; padding:10px; spacing:none; width: auto; }
+td	{ border: solid 2px #666; padding:4px; font: bold 22px Times New Roman, Serif; background:#ccc; color:#999; }
+td.cur	{ background:#fff; border: solid 2px black; }
+td.pad	{ background:gray; border: solid 2px gray; }
+a	{ padding:none; spacing:none; text-decoration:none; color:#600}
+a:hover, a:active, a:focus { text-decoration:none; color:#900; }
